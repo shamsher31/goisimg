@@ -1,4 +1,4 @@
-# goimgext
+# goisimg
 Check if filepath is an Image
 
 # How to install
