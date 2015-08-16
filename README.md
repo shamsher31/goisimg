@@ -27,7 +27,7 @@ func main() {
 [go-archive](https://github.com/ferhatelmas/go-archive)
 
 # Why
-This package is inspired by [sindresorhus](https://www.npmjs.com/package/is-image) npm module to check if filepath is an Image.
+This package is inspired by [is-image](https://www.npmjs.com/package/is-image) npm module to check if filepath is an Image.
 
 # License
 MIT © [Shamsher Ansari](https://github.com/shamsher31)
