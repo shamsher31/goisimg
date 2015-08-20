@@ -1,4 +1,7 @@
 # goisimg
+
+[![Godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/shamsher31/goisimg)
+
 Check if filepath is an Image
 
 ### How to install
